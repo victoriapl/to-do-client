@@ -1,3 +1,8 @@
+#TO DO LIST (client)
+
+Single Web Application that simulates a To Do List. Using React, Material UI, Bootstrap and Yarn in front side. And Node.js, Express.js and MongoDB in backend.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
